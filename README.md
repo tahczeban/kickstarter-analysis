@@ -1,5 +1,6 @@
 # kickstarter-analysis
-Performing analysis on kickstarter data to uncover trends
+
+Performing analysis on kickstarter data to uncover trends-MODULE 1
 
 
 ![image](https://user-images.githubusercontent.com/90135381/158727135-f936cad4-bf51-4e01-aff2-e4d0fd2c6ed2.png)
